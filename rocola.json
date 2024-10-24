@@ -1,0 +1,253 @@
+[
+    {
+        "nombre": "TruenoTierra",
+        "autor": "La Renga",
+        "id": 123,
+        "portada": "https://e-cdn-images.dzcdn.net/images/cover/fa0385529e02f510ab58210bbb5c70a1/500x500-000000-80-0-0.jpg",
+        "pistas": [
+            {
+                "nombre": "El monstruo que crece",
+                "duracion": 2580
+            },
+            {
+                "nombre": "Almohada de puiedra",
+                "duracion": 3450
+            },
+            {
+                "nombre": "Ruta 40",
+                "duracion": 3270
+            },
+            {
+                "nombre": "La boca del lobo",
+                "duracion": 3250
+            },
+            {
+                "nombre": "Montaña Roja",
+                "duracion": 3450
+            },
+            {
+                "nombre": "Palabras Estorbantes",
+                "duracion": 6100
+            },
+            {
+                "nombre": "Cualquier Historia",
+                "duracion": 5240
+            },
+            {
+                "nombre": "MUJER DE CALEIDOSCOPIO",
+                "duracion": 204
+            },
+            {
+                "nombre": "LLENADO DE LLORAR",
+                "duracion": 279
+            }, 
+            {
+                "nombre": "OSCURO DIAMANTE",
+                "duracion": 276
+            },
+            {
+                "nombre": "ENTRE LA NIEBLA",
+                "duracion": 3540
+            },
+            {
+                "nombre": "CUADRADO OBVIADO",
+                "duracion": 3060
+            },
+            {
+                "nombre": "Como un Diamante",
+                "duracion": 4582
+            },
+            {
+                "nombre": "Alunizando unisono",
+                "duracion": 2520
+            },
+            {
+                "nombre": "Sustancia entre plantas",
+                "duracion": 1790
+            },
+            {
+                "nombre": "TruenoTierra",
+                "duracion": 2270
+            }
+        ]
+    },
+
+    {
+        "nombre": "Acariciando lo aspero",
+        "autor": "Divididos",
+        "id": 111,
+        "portada": "https://www.cmtv.com.ar/tapas-cd/divididosacariciando.webp",
+        "pistas": [
+            {
+                "nombre": "EL 38",
+                "duracion": 2300
+            },
+            {
+                "nombre": "SABADO",
+                "duracion": 4166
+            },
+            {
+                "nombre": "CUADROS COLGADOS",
+                "duracion": 2200
+            },
+            {
+                "nombre": "CIELITO LINDO",
+                "duracion": 3380
+            },
+            {
+                "nombre": "¿QUE TAL?",
+                "duracion": 3000
+            },
+            {
+                "nombre": "SISTERS",
+                "duracion": 4440
+            },
+            {
+                "nombre": "ALA DELTA",
+                "duracion": 3250
+            },
+            {
+                "nombre": "AZULEJO",
+                "duracion": 2675
+            },
+            {
+                "nombre": "EL BURRITO",
+                "duracion": 1095
+            },
+            {
+                "nombre": "JAMELOSAPOAI",
+                "duracion": 1890
+            },
+            {
+                "nombre": "PARAGUAY",
+                "duracion": 2052
+            },
+            {
+                "nombre": "VOODOO CHILD",
+                "duracion": 1840
+            },
+            {
+                "nombre": "Haciendo cola para nacer",
+                "duracion": 2052
+            }
+        
+        
+        ]
+    },
+
+
+{
+    "nombre": "Ritual",
+    "autor": "Los piojos",
+    "id": 100,
+    "portada": "https://upload.wikimedia.org/wikipedia/en/d/dd/Ritual_%28Los_Piojos%29.jpg?20100920183706",
+    "pistas": [
+        {
+            "nombre": "OLVIDATE (YA VES)",
+            "duracion": 2900
+        },
+        {
+            "nombre": " CHACTUCHAC",
+            "duracion": 4260
+        },
+        {
+            "nombre": "DESDE LEJOS NO SE VE",
+            "duracion": 2200
+        },
+        {
+            "nombre": "CIELITO LINDO",
+            "duracion": 2330
+        },
+        {
+            "nombre": "AY AY AY",
+            "duracion": 3700
+        },
+        {
+            "nombre": "ANGELITO",
+            "duracion": 4450
+        },
+        {
+            "nombre": "AGUA",
+            "duracion": 7150
+        },
+        {
+            "nombre": "ARCO",
+            "duracion": 2975
+        },
+        {
+            "nombre": "TAN SOLO",
+            "duracion": 1695
+        },
+        {
+            "nombre": "INTRO MARADO",
+            "duracion": 4850
+        },
+        {
+            "nombre": "MARADÓ",
+            "duracion": 4552
+        },
+        {
+            "nombre": "ANDO GANAS (LLORA, LLORA)",
+            "duracion": 6457
+        },
+        {
+            "nombre": " CRUEL",
+            "duracion": 5989
+        },
+        {
+            "nombre": " TODO PASA",
+            "duracion": 6417
+        }
+        
+        
+    ]
+},
+
+{
+    "nombre": "Oktubre",
+    "autor": "Patricio Rey y Sus Redonditos de Ricota",
+    "id": 10,
+    "portada": "https://i.scdn.co/image/ab67616d0000b273c7c1ffa44473871a6f004786",
+    "pistas": [
+        {
+            "nombre": "FUEGOS DE OCTUBRE",
+            "duracion": 3900
+        },
+        {
+            "nombre": "PRESO EN MI CIUDAD",
+            "duracion": 4360
+        },
+        {
+            "nombre": "MÚSICA PARA PASTILLAS",
+            "duracion": 5200
+        },
+        {
+            "nombre": "SEMEN UP",
+            "duracion": 2530
+        },
+        {
+            "nombre": "DIVINA TV FÜHRER",
+            "duracion": 3500
+        },
+        {
+            "nombre": "MOTOR PSICO",
+            "duracion": 4450
+        },
+        {
+            "nombre": "JIJIJI",
+            "duracion": 4450
+        },
+        {
+            "nombre": "CANCIÓN PARA NAUFRAGIOS",
+            "duracion": 5375
+        },
+        {
+            "nombre": "YA NADIE VA A ESCUCHAR TU REMERA",
+            "duracion": 4995
+        }
+        
+    ]
+} 
+
+
+]

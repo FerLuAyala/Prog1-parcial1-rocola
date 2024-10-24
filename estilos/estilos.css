@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+img {
+    display: block;
+    width: 100%;
+}
+
+body {
+    background-image: url(../img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: "Montserrat", sans-serif;
+    font-size:1.2rem;
+    font-weight:300;
+    line-height: 1.5rem;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.411);
+  
+}
+
+
+header {
+    height: 500px;
+    display: flex;
+    justify-content: left;
+    align-items:flex-start;
+    color: antiquewhite;
+    background-image: url(../img/bannerMovil.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: #070707b7;
+}
+
+header h1{
+    font-size: 2rem;
+    font-family: "Electrolize", sans-serif;
+    padding-top: 1.5rem;
+    padding-left: 2rem;
+    font-weight: 200;
+
+}
+
+
+.botonera{
+    color: aliceblue;
+    text-align: center;
+    
+    background-color: rgba(0, 0, 0, 0.233);
+    padding: 2rem;
+  
+}
+
+
+
+
+.container{
+    background-color: rgba(24, 24, 24, 0.63);
+    color: antiquewhite;
+    border-radius: 1rem;
+    margin-bottom: 2rem;
+    padding: 2rem;
+   
+}
+
+
+
+
+
+.botonera h2{
+    font-size: 3rem;
+    font-family: "Electrolize", sans-serif;
+    font-weight: 800;
+    color: antiquewhite;
+    
+}
+
+.tituloDisco{
+    border-bottom: solid 0.2rem rgb(250, 2, 2);
+    margin-bottom: 2rem;
+}
+
+
+.tituloDisco h3{
+    font-family: "Electrolize", sans-serif;
+    font-size: 2rem;
+    
+    font-weight: 300;
+    
+}
+
+
+h4 ,h5{
+    font-family: "Electrolize", sans-serif;
+    font-weight: 600;
+    font-size: 1,8rem;
+    
+}
+
+.subTitulo{
+    background-color:rgb(179, 18, 18);
+    padding: 0.5rem;
+}
+
+.texAutor{
+    background-color:rgb(179, 18, 18);
+    padding: 2rem;
+    box-shadow: rgba(0, 0, 0, 0.363) 6px 6px 5px;
+   
+    
+}
+
+.infoAdicional ul li {
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.table {
+    box-shadow: rgba(0, 0, 0, 0.363) 6px 6px 5px;
+}
+
+.infoAdicional{
+    background-color:rgb(24, 24, 24);
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.list-group-item {
+    background-color: rgb(34, 34, 34);
+    color:antiquewhite;
+}
+
+.links a {
+    font-family: "Montserrat", sans-serif;
+   font-weight: 400;
+    font-size: 1em;
+    text-decoration: none;
+    color:antiquewhite;
+}
+
+.links a:hover {
+    color: #a2c4c9;
+}
+
+@media (min-width: 768px) { 
+    header {background-image: url(../img/banner.png);
+        background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;}
+
+ }
+
+
+@media (min-width: 992px) { 
+    footer ul{
+       flex-direction: row;
+    }
+}
+
