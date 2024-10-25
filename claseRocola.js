@@ -185,38 +185,3 @@ class Rocola {
 
 
 
-/////////////////// adicionales //////////////////////
-
- 
-    
-
-
-
-
-
-
-
-
-
-}
-
-
-
-/*
-if (this.discos.length === 0) {
-    console.log("Esta rocola está vacía");
-    document.getElementById('tablaDiscos').innerHTML = "Esta rocola está vacía";
-} else {
-    let respuesta = ""; // Inicializar respuesta como una cadena vacía
-    
-    for (const disco of this.discos) {
-        respuesta += `<img src="${disco.portada}" width="100px">\n`;
-        respuesta += `<h5>${disco.nombre}</h5>`; // Corregido: eliminado el `"` extra
-        respuesta += `<p>${disco.autor}</p>`; 
-        respuesta += `<p>${disco.id}</p>`;
-        // Aquí podrías agregar un recorrido para las pistas si lo deseas
-    }
-
-    // Muestra la respuesta en el HTML
-    document.getElementById('tablaDiscos').innerHTML = respuesta;
-}*/
