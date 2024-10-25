@@ -59,7 +59,7 @@ class Rocola {
         let resp = "";
         resp+= `<div class="container pb-3 mb-2 text-end text-uppercase">
         <h2>Cantidad de Discos en la rocola: ${this.discos.length}</h2>
-        <p>Disco de mayor duración: ${discoMayorDuracion.nombre} </p>
+        <p class="text-warning">Disco de mayor duración: ${discoMayorDuracion.nombre} </p>
         </div>`
         for (let disco of this.discos) {
             resp += `
@@ -85,7 +85,7 @@ class Rocola {
                                                  <li class="list-group-item">Duracion total disco:<br>${disco.duracionTotalCd()}</li>
                                                  <li class="list-group-item">Cantidad de Pistas:<br> ${disco.cantidadDePistas()}</li>
                                                  <li class="list-group-item">Promedio de duracion:<br> ${disco. promedioDuracionDisco()}</li>
-                                                 <li class="list-group-item">Pista con mayor duracion:<br> ${disco.pistaMayorDuracion()}</li>
+                                                 <li class="list-group-item text-warning">Pista con mayor duracion:<br> ${disco.pistaMayorDuracion()}</li>
                                             </ul>
                                             </div>
                                         </div>
