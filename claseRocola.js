@@ -175,9 +175,8 @@ class Rocola {
         document.querySelector(".misDiscos").innerHTML = html;
     }
     
-    
-
-
     mostrarDiscos() {
         document.querySelector(".misDiscos").innerHTML = this.toHTML();
-    }}
+    }
+
+}
