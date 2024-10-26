@@ -180,8 +180,4 @@ class Rocola {
 
     mostrarDiscos() {
         document.querySelector(".misDiscos").innerHTML = this.toHTML();
-    }
-
-
-
-
+    }}
